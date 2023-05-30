@@ -1,0 +1,15 @@
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\bin\Debug\net6.0\Logic01.exe
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\bin\Debug\net6.0\Logic01.deps.json
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\bin\Debug\net6.0\Logic01.runtimeconfig.json
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\bin\Debug\net6.0\Logic01.dll
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\bin\Debug\net6.0\Logic01.pdb
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.csproj.AssemblyReference.cache
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.GeneratedMSBuildEditorConfig.editorconfig
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.AssemblyInfoInputs.cache
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.AssemblyInfo.cs
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.csproj.CoreCompileInputs.cache
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.dll
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\refint\Logic01.dll
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.pdb
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\Logic01.genruntimeconfig.cache
+D:\1D\XSIS ACADEMY\BATCH_319\LOGIC\Logic319\Logic01\obj\Debug\net6.0\ref\Logic01.dll
